@@ -14,20 +14,20 @@ Error Handling: Comprehensive error states and user feedback
 
 # 🛠️ Technology Stack
 
-Frontend: React 18, Next.js 14
-State Management: Redux Toolkit
-Styling: Tailwind CSS
-Forms: React Hook Form with Zod validation
-Icons: Lucide React
-Testing: Jest, React Testing Library
-Mock API: JSON Server
-TypeScript: Full type safety
+Frontend: React 18, Next.js 14,
+State Management: Redux Toolkit,
+Styling: Tailwind CSS,
+Forms: React Hook Form with Zod validation,
+Icons: Lucide React,
+Testing: Jest, React Testing Library,
+Mock API: JSON Server,
+TypeScript: Full type safety,
 
 ## Getting Started
 
 Prerequisites
 
-Node.js 18 or later
+Node.js 18 or later,
 npm or yarn package manager
 
 ## Installation
@@ -68,19 +68,19 @@ Password: password123
 ## Test Coverage
 The application includes unit tests for:
 
-Authentication components (LoginForm, RegisterForm)
-Job components (JobCard, ApplicationForm)
-Redux slices (authSlice, jobSlice)
-Utility functions
-Critical user flows
+Authentication components (LoginForm, RegisterForm),
+Job components (JobCard, ApplicationForm),
+Redux slices (authSlice, jobSlice),
+Utility functions,
+Critical user flows,
 
 ## 📝 API Endpoints
 The mock API provides these endpoints:
 
-GET /jobs - Get job listings with pagination and filters
-GET /jobs/:id - Get job details by ID
-POST /applications - Submit job application
-GET /applications - Get user applications
-POST /users - Register new user
+GET /jobs - Get job listings with pagination and filters,
+GET /jobs/:id - Get job details by ID,
+POST /applications - Submit job application,
+GET /applications - Get user applications,
+POST /users - Register new user,
 GET /users - Get users (for authentication)
 
