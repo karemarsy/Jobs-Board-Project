@@ -84,3 +84,5 @@ GET /applications - Get user applications,
 POST /users - Register new user,
 GET /users - Get users (for authentication)
 
+## 🚀 Live Demo
+
